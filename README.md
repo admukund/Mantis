@@ -1,1 +1,1 @@
-# Mantis
+Mantisbot is a therapist chatbot that allows users to talk about their mental health concerns such as depression and anxiety. The chatbot also offers Cognitive Behavioral Therapy exercises if the user selects 'A' after which they are linked to a website for the concern that they indicate. 
